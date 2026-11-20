@@ -1,0 +1,8 @@
+# TECNO LAB · cómo cuenta GitHub los lenguajes del proyecto
+# index.html y models/js se generan con src/construir.py a partir del código de src/ (JavaScript, CSS y HTML).
+# Se marcan como generados para que la barra de lenguajes de GitHub muestre el código fuente real.
+index.html linguist-generated=true
+TECNO-LAB-un-archivo.html linguist-generated=true
+models/js/** linguist-generated=true
+lib/** linguist-vendored=true
+descargas/** binary
